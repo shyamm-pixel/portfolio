@@ -11,7 +11,22 @@
 </head>
 
 <body>
-    <!-- Navbar -->
+    <!-- Navbar -->![download 10](https://github.com/user-attachments/assets/1ede608d-7987-4546-bee0-875286cb3f25)
+<img width="234" height="216" alt="download 9" src="https://github.com/user-attachments/assets/4a2bf4e0-b0e9-4220-9aa4-83e46e7af652" />
+![download 8](https://github.com/user-attachments/assets/21e34561-8a6b-47b7-bf56-2c460473abd3)
+<img width="214" height="236" alt="download 7" src="https://github.com/user-attachments/assets/c5651e7c-28d9-400d-86d0-e077552026d5" />
+<img width="166" height="304" alt="download 6" src="https://github.com/user-attachments/assets/313af037-13f0-42c5-8098-80971eea0b96" />
+<img width="241" height="209" alt="download 5" src="https://github.com/user-attachments/assets/f31df48d-3f1c-4be7-b23f-e7258d49856a" />
+<img width="183" height="275" alt="download 4" src="https://github.com/user-attachments/assets/def544b5-0ffa-4e98-9485-d94c9c1ed2d3" />
+<img width="189" height="267" alt="download 3" src="https://github.com/user-attachments/assets/7aa51195-e362-40d0-827e-3677959b7138" />
+<img width="225" height="225" alt="download 2" src="https://github.com/user-attachments/assets/34c0f608-49ca-4eca-b0aa-c23a92c576db" />
+![WhatsApp Image 2025-08-03 at 15 39 50_dc57a523](https://github.com/user-attachments/assets/a8da28e2-f432-49be-abe6-4761209e7f8a)
+![WhatsApp Image 2025-08-03 at 10 47 46_6d466a23](https://github.com/user-attachments/assets/b1a31874-42aa-4434-b4e6-e373bc9dba9c)
+<img width="500" height="500" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/3ca54ac9-0c2a-45c7-b353-b7fe73cbd7c1" />
+![download](https://github.com/user-attachments/assets/64a027d7-a8ab-4ccd-9bf0-c1277e9278b8)
+![download 12](https://github.com/user-attachments/assets/560607f4-a527-45a1-836c-d2d4a636d652)
+![download 11](https://github.com/user-attachments/assets/7c08e7ad-50f4-45df-afa0-24f824f242df)
+
     <nav class="navbar">
         <div class="logo">shyamm.LOG</div>
         <input type="checkbox" id="menu-toggle" hidden>
